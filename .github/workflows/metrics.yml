@@ -1,18 +1,21 @@
 name: GitHub Metrics
 
+permissions:
+  contents: write
+
 on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
   push:
     branches: ["main"]
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - name: Generate metrics
-        uses: lowlighter/metrics-embed@v3
+        uses: lowlighter/metrics@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           username: mrinalchaturvedi27
