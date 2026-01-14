@@ -57,7 +57,8 @@ struct Mrinal {
 
 ## 📊 GitHub Metrics
 
-![Metrics](./metrics.svg)
+![GitHub Metrics](https://raw.githubusercontent.com/mrinalchaturvedi27/mrinalchaturvedi27/main/metrics.svg)
+
 
 
 
