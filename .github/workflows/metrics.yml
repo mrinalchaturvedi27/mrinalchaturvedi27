@@ -5,13 +5,11 @@ permissions:
 
 on:
   workflow_dispatch:
-  push:
-    branches: ["main"]
   schedule:
     - cron: "0 0 * * *"
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
     steps:
       - name: Metrics embed
