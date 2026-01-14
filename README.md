@@ -1,4 +1,4 @@
-<h2> Hi, I’m Mrinal Chaturvedi! 
+<h2> Hi, I’m Mrinal! 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2l3M2V3ZXM1MzZoZGdwdm14aW9kdGxyNzQ3bXMxeWRmaWZoaWU4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
 </h2>
 
@@ -9,7 +9,7 @@
     Third-Year Undergraduate at 
     <a href="https://www.iitk.ac.in/">IIT Kanpur</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br/>
-    Interested in Machine Learning, Systems & Quantitative Finance
+    Interested in Machine Learning, Systems & low level work
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
 </p>
