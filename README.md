@@ -55,9 +55,10 @@ struct Mrinal {
 ```
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Metrics
 
-![Metrics](https://metrics.lecoq.io/insights/mrinalchaturvedi27))
+![Metrics](./metrics.svg)
+
 
 
 
