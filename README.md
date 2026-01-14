@@ -55,11 +55,10 @@ struct Mrinal {
 ```
 ---
 
+
 ## 📊 GitHub Metrics
 
-![GitHub Metrics](https://raw.githubusercontent.com/mrinalchaturvedi27/mrinalchaturvedi27/main/metrics.svg)
-
-
+![GitHub Metrics](https://raw.githubusercontent.com/mrinalchaturvedi27/mrinalchaturvedi27/main/metrics.svg?cache=1)
 
 
 
