@@ -4,20 +4,13 @@
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzc0NmFyMXF1b2h2YzZjZXFlaTR0M2Ewdm8xbTJ0cXpnd2wza2cxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif" width="230"/>
 
-<p>
-  <em>
-    Third-Year Undergraduate at 
-    <a href="https://www.iitk.ac.in/">IIT Kanpur</a>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br/>
-    Interested in Machine Learning, Systems & low level work
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </em>
-</p>
-
-[![Twitter](https://img.shields.io/badge/-moon__chat7-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/moon_chat7)
-[![LinkedIn](https://img.shields.io/badge/-Mrinal%20Chaturvedi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mrinalchaturvedi27)
-[![GitHub](https://img.shields.io/github/followers/mrinalchaturvedi27?label=follow&style=social)](https://github.com/mrinalchaturvedi27)
-
+- 🔭  I’m currently Pre-Final UG at **IIT Kanpur**
+- ⚙️  I use daily: .py, .c, .c++, .sql, .cuda
+- 🌱  I’m still learning a lot about **Open Source** 
+- 📫  Feel free to reach me on [Twitter](https://twitter.com/moon_chat7) or [linkedin](https://www.linkedin.com/in/mrinalchaturvedi27)
+- 🏛️  Some side projects during my free time:
+  - [Fluxions: The Dynamic Neural Network Toolkit](https://github.com/mrinalchaturvedi27/fluxions)
+  - [Building Neural Network in C++](https://github.com/mrinalchaturvedi27/Neural-Networks-CPP-using-Armadillo)
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
