@@ -53,11 +53,5 @@ struct Mrinal {
         "Building efficient ML systems using compilers, CUDA, and modern ML";
 };
 
----
 
-🏗️ Some side projects during my free time
-- [Fluxions: The Dynamic Neural Network Toolkit] (https://github.com/mrinalchaturvedi27/fluxions)
-- [NN in C++ using Armadillo] (https://github.com/mrinalchaturvedi27/Neural-Networks-CPP-using-Armadillo)
-
----
 
