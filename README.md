@@ -55,5 +55,6 @@ struct Mrinal {
 
 
 🏗️ Some side projects during my free time
-Fluxions – The Dynamic Neural Network Toolkit [https://github.com/mrinalchaturvedi27/fluxions]
-Neural Networks in C++ using Armadillo [https://github.com/mrinalchaturvedi27/Neural-Networks-CPP-using-Armadillo]
+- [Fluxions: The Dynamic Neural Network Toolkit] (https://github.com/mrinalchaturvedi27/fluxions)
+- [NN in C++ using Armadillo] (https://github.com/mrinalchaturvedi27/Neural-Networks-CPP-using-Armadillo)
+
