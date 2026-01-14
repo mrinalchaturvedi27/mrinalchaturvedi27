@@ -1,52 +1,54 @@
-## Hi 👋, I’m Mrinal Chaturvedi
+<h2> Hi, I’m Mrinal Chaturvedi! 
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h2>
 
----
+<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
 
--  **Third-Year Undergraduate** at **IIT Kanpur** 
--  Working at the intersection of **Machine Learning, Systems & Quantitative Finance**
--  Actively building projects in:
-  - **Machine Learning & NLP** (LLMs, RAG systems, representation learning)
-  - **ML Systems & Compilers** (**Apache TVM**, model optimization, deployment)
-  - **Low-Level & Performance-Oriented Systems** (C/C++, **CUDA**, GPU acceleration)
-  - **Quantitative Finance** (Option Pricing, Volatility Modeling)
-  - **Scientific & Astronomical Computing**
--  I use daily: `.py`, `.cpp`, `.c`, `.cu`, `.sql` , `.tex`
--  Currently learning:
-  - Advanced **ML systems**
-  - **Apache TVM** for model compilation & optimization
-  - **CUDA programming** & GPU optimization
-  - **NLP architectures** & **Deep RL architectures**and training pipelines
-  - Open-source contribution workflows
--  Interests:
-  - ML & NLP systems
-  - ML compilers & runtime optimization
-  - Low-level computing and performance engineering
-
----
-
-### Some side projects during my free time:
-
-- [Fluxions: The Dynamic Neural Network Toolkit] (https://github.com/mrinalchaturvedi27/fluxions)
-- [NN in C++ using Armadillo] (https://github.com/mrinalchaturvedi27/Neural-Networks-CPP-using-Armadillo)
-
----
-
-### Open Source & Community
-
-- Exploring contributions to **ML systems**, **Apache TVM**, **CUDA-enabled**, and **scientific Python** ecosystems
-- Passionate about building **efficient, scalable, and principled software**
-
----
-
-### Reach Me
-
-<p align="center">
-  <a href="https://x.com/moon_chat7">Twitter</a> /
-  <a href="https://github.com/mrinalchaturvedi27">GitHub</a> /
-  <a href="https://linkedin.com/mrinalchaturvedi27">LinkedIn</a> /
-  <a href="mailto:mrinal.chaturvedi498@gmail.com">Email</a>
+<p>
+  <em>
+    Third-Year Undergraduate at 
+    <a href="https://www.iitk.ac.in/">IIT Kanpur</a>
+    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br/>
+    Interested in Machine Learning, Systems & Quantitative Finance
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </em>
 </p>
 
+[![Twitter](https://img.shields.io/badge/-moon__chat7-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/moon_chat7)
+[![LinkedIn](https://img.shields.io/badge/-Mrinal%20Chaturvedi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mrinalchaturvedi27)
+[![GitHub](https://img.shields.io/github/followers/mrinalchaturvedi27?label=follow&style=social)](https://github.com/mrinalchaturvedi27)
+
 ---
 
-✨ *Always curious. Always building.*
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```cpp
+struct Mrinal {
+    std::string role = "Third-Year Undergraduate @ IIT Kanpur";
+
+    std::vector<std::string> interests = {
+        "Machine Learning & NLP",
+        "ML Systems & Compilers",
+        "Low-level Systems",
+        "Quantitative Finance"
+    };
+
+    std::vector<std::string> languages = {
+        "Python", "C", "C++", "CUDA", "SQL", "LaTeX"
+    };
+
+    std::vector<std::string> tools = {
+        "Apache TVM", "PyTorch", "TensorFlow",
+        "CUDA", "Armadillo", "Linux"
+    };
+
+    std::vector<std::string> focus_areas = {
+        "LLMs & RAG systems",
+        "GPU-accelerated computing",
+        "Model compilation & optimization",
+        "Option pricing & volatility modeling"
+    };
+
+    std::string challenge =
+        "Building efficient ML systems using compilers, CUDA, and modern ML";
+};
