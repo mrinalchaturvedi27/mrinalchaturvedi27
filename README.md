@@ -39,7 +39,7 @@ struct Mrinal {
 
     std::vector<std::string> tools = {
         "Apache TVM", "PyTorch", "TensorFlow",
-        "CUDA", "Armadillo", "Linux"
+        "CUDA", "Armadillo"
     };
 
     std::vector<std::string> focus_areas = {
