@@ -52,7 +52,7 @@ struct Mrinal {
     std::string challenge =
         "Building efficient ML systems using compilers, CUDA, and modern ML";
 };
-
+```
 ### 📊 GitHub Activity
 
 ![Metrics](https://metrics.lecoq.io/mrinalchaturvedi27?template=classic&activity=1&activity.limit=10&activity.days=30&activity.filter=all&activity.visibility=all&repositories=1&repositories.batch=100&repositories.forks=1)
