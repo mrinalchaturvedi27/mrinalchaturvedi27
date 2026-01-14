@@ -1,8 +1,8 @@
 <h2> Hi, I’m Mrinal Chaturvedi! 
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2l3M2V3ZXM1MzZoZGdwdm14aW9kdGxyNzQ3bXMxeWRmaWZoaWU4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
 </h2>
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NxMTdpcWs4cWpoZGlsd24yNTc1aHpoOW1mNHZjN2ZudzlvMWtreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="230"/>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzc0NmFyMXF1b2h2YzZjZXFlaTR0M2Ewdm8xbTJ0cXpnd2wza2cxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif" width="230"/>
 
 <p>
   <em>
