@@ -53,5 +53,4 @@ struct Mrinal {
 };
 ```
 ---
-![Mrinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrinalChaturvedi&show_icons=true&theme=default&hide_rank=false)
 
