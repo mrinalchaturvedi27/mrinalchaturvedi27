@@ -46,7 +46,6 @@ struct Mrinal {
         "LLMs & RAG systems",
         "GPU-accelerated computing",
         "Model compilation & optimization",
-        "Option pricing & volatility modeling"
     };
 
     std::string challenge =
