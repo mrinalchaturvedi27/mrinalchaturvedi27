@@ -24,33 +24,31 @@
 
 ```cpp
 struct Mrinal {
-    std::string role = "Third-Year Undergraduate @ IIT Kanpur";
+    std::string role = "Undergraduate @ IIT Kanpur";
 
     std::vector<std::string> interests = {
-        "Machine Learning & NLP",
-        "ML Systems & Compilers",
-        "Low-level Systems",
-        "Quantitative Finance"
+        "Machine learning systems",
+        "Model optimization & compilers",
+        "GPU-accelerated computing"
     };
 
     std::vector<std::string> languages = {
-        "Python", "C", "C++", "CUDA", "SQL", "LaTeX"
+        "Python", "C++", "CUDA"
     };
 
     std::vector<std::string> tools = {
-        "Apache TVM", "PyTorch", "TensorFlow",
-        "CUDA", "Armadillo"
+        "PyTorch", "TensorFlow", "Apache TVM"
     };
 
     std::vector<std::string> focus_areas = {
-        "LLMs & RAG systems",
-        "GPU-accelerated computing",
-        "Model compilation & optimization",
+        "Efficient training and inference",
+        "Model compilation & optimization"
     };
 
     std::string challenge =
-        "Building efficient ML systems using compilers, CUDA, and modern ML";
+        "Building efficient and scalable ML systems";
 };
+
 ```
 ---
 
