@@ -13,12 +13,6 @@
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">
   </em>
 </p>
-
-
-[![Twitter](https://img.shields.io/badge/-moon__chat7-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/moon_chat7)
-[![LinkedIn](https://img.shields.io/badge/-Mrinal%20Chaturvedi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mrinalchaturvedi27)
-[![GitHub](https://img.shields.io/github/followers/mrinalchaturvedi27?label=follow&style=social)](https://github.com/mrinalchaturvedi27)
-
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
