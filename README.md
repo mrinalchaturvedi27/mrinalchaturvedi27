@@ -6,13 +6,14 @@
 
 <p>
   <em>
-    Third-Year Undergraduate at 
+    Third-year undergraduate at 
     <a href="https://www.iitk.ac.in/">IIT Kanpur</a>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br/>
-    Interested in Machine Learning, Systems & low level work
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="28"><br/>
+    Interested in machine learning systems and low-level computing
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">
   </em>
 </p>
+
 
 [![Twitter](https://img.shields.io/badge/-moon__chat7-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/moon_chat7)
 [![LinkedIn](https://img.shields.io/badge/-Mrinal%20Chaturvedi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mrinalchaturvedi27)
