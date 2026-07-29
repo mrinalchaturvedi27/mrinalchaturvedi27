@@ -8,8 +8,6 @@
 
 ```cpp
 struct Mrinal {
-    std::string role = "Undergraduate @ IIT Kanpur";
-
     std::vector<std::string> interests = {
         "Machine learning systems",
         "Model optimization & compilers",
@@ -23,15 +21,6 @@ struct Mrinal {
     std::vector<std::string> tools = {
         "PyTorch", "TensorFlow", "Apache TVM"
     };
-
-    std::vector<std::string> focus_areas = {
-        "Efficient training and inference",
-        "Model compilation & optimization"
-    };
-
-    std::string challenge =
-        "Building efficient and scalable ML systems";
-};
 
 ```
 ---
